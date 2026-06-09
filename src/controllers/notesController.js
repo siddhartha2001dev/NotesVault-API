@@ -210,7 +210,7 @@ export const paginateNotes = async (req, res) => {
 };
 
 
-//Keyword notes Search 
+//Keywords notes Search
 export const noteSearch = async (req, res) => {
 
     try {
